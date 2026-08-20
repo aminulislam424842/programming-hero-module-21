@@ -1,0 +1,1 @@
+{"version":3,"file":"06-primitive-profile.js","sourceRoot":"","sources":["../src/06-primitive-profile.ts"],"names":[],"mappings":";;AAAA,MAAM,IAAI,GAAW,mBAAmB,CAAA;AACxC,MAAM,GAAG,GAAW,EAAE,CAAA;AACtB,MAAM,SAAS,GAAY,IAAI,CAAA;AAC/B,MAAM,OAAO,GAAW,YAAY,CAAA;AAEpC,0CAA0C;AAC1C,OAAO,CAAC,GAAG,CAAC,UAAU,IAAI;QAClB,GAAG;YACC,SAAS;YACT,OAAO,EAAE,CAAC,CAAA"}
